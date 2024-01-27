@@ -1,7 +1,7 @@
 {
-	"name": "Tamako pay",
-	"short_name": "Tamako pay",
-	"description": "Tamako pay",
+	"name": "タマ寿司注文",
+	"short_name": "タマ寿司注文アプリ",
+	"description": "タマ寿司注文アプリ",
 	"start_url": "./index.html",
 	"display": "standalone",
 	"theme_color": "#12151a",
