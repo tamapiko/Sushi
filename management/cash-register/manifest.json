@@ -1,11 +1,11 @@
 {
-	"name": "タマ寿司注文",
-	"short_name": "タマ寿司注文アプリ",
-	"description": "タマ寿司注文アプリ",
+	"name": "タマ寿司レジ用",
+	"short_name": "タマ寿司レジ用アプリ",
+	"description": "タマ寿司レジ用アプリ",
 	"start_url": "./index.html",
 	"display": "standalone",
-	"theme_color": "#12151a",
-	"background_color": "#12151a",
+	"theme_color": "#131a12",
+	"background_color": "#131a12",
 	"orientation": "any",
 	"icons": [
 		{
